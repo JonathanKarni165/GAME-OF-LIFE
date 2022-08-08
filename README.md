@@ -3,6 +3,7 @@ Conways game of life (cellular automata)
 https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
 controls:  
+Mouse          - choose which pixel lives  
 ENTER          - proceed to next generation  
 Right Arrow    - fast forward  
 R              - rewind  
